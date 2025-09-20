@@ -1,6 +1,6 @@
-# Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning
+# Self-paced Multi-view Clustering with Noisy Pseudo-Labels
 
-This repository provides the implementations of Deep Multi-view Clustering by Pseudo-label Guided Contrastive Learning and Dual Correlation Learning, presented in the paper:
+This repository provides the implementations of Self-paced Multi-view Clustering with Noisy Pseudo-Labels, presented in the paper:
 
 
 ## Installation
